@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 // Git pull request Test
-// Git pull request Test2
+// Removed Test
 @Controller
 @RequestMapping(value="/")
 public class SpringMVCDemo {
